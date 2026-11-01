@@ -1,0 +1,866 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1428px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-393 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 37.5%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1554px;
+  height: 1221px;
+  position: absolute;
+  left: 0px;
+  top: 207px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 55.5px;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: calc(50% - 263px);
+  top: 1594px;
+  width: 506px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 60px;
+  top: 159px;
+  width: 431px;
+  height: 25px;
+}
+.container {
+  background: rgba(0, 0, 0, 0);
+  width: 219px;
+  height: 529px;
+  position: absolute;
+  left: 61px;
+  top: 198px;
+}
+.container2 {
+  background: rgba(0, 0, 0, 0);
+  width: 219px;
+  height: 161px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container3 {
+  background: rgba(0, 0, 0, 0);
+  width: 219px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10.874414443969727px;
+  line-height: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 0.01px;
+  width: 53px;
+  height: 18px;
+}
+.container4 {
+  background: rgba(0, 0, 0, 0);
+  width: 219px;
+  height: 124px;
+  position: absolute;
+  left: 0px;
+  top: 161px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 11.330859184265137px;
+  line-height: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 0.04px;
+  width: 31px;
+  height: 18px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 120%;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: 31px;
+  top: 0px;
+}
+.container5 {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 3px;
+  width: 219px;
+  height: 96px;
+  position: absolute;
+  left: -12px;
+  top: 29px;
+}
+.container6 {
+  background: rgba(0, 0, 0, 0);
+  width: 235px;
+  height: 76px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.label-background-color {
+  background: #ffffff;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 13px;
+  top: 8px;
+}
+.label-background-color2 {
+  background: #afcede;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 49px;
+  top: 8px;
+}
+.label-background-color3 {
+  background: #ffff26;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 85px;
+  top: 8px;
+}
+.label-background-color4 {
+  background: #ff2424;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 121px;
+  top: 8px;
+}
+.label-background-color5 {
+  background: #d9cbb2;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 157px;
+  top: 8px;
+}
+.label-background-color6 {
+  background: #ffd68a;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 193px;
+  top: 8px;
+}
+.label-background-color7 {
+  background: #ebb5ca;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 13px;
+  top: 42px;
+}
+.label-background-color8 {
+  background: #ffb8dd;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 49px;
+  top: 42px;
+}
+.label-background-color9 {
+  background: #c2c2c2;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 85px;
+  top: 42px;
+}
+.label-background-color10 {
+  background: #339cff;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 121px;
+  top: 42px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 61px;
+  top: 225px;
+  width: 101px;
+}
+.div8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 61px;
+  top: 252px;
+  width: 101px;
+}
+.div9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 61px;
+  top: 279px;
+  width: 101px;
+}
+.div10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 61px;
+  top: 306px;
+  width: 101px;
+}
+.div11 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 468px;
+  top: 989px;
+  width: 79px;
+}
+.div12 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 992px;
+  top: 989px;
+  width: 150px;
+}
+.div13 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 177px;
+  top: 989px;
+  width: 108px;
+}
+.div14 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 177px;
+  top: 1035px;
+  width: 101px;
+}
+.div15 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 55.5px;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: calc(50% - 251px);
+  top: 1190px;
+  width: 506px;
+}
+.bi-basket {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1255px;
+  top: 988px;
+  overflow: hidden;
+}
+.group {
+  width: 100%;
+  height: 93.75%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 6.25%;
+  top: 0%;
+  overflow: visible;
+}
+._89345112133 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 55.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 699px;
+  top: 1043px;
+  width: 137px;
+  height: 51px;
+}
+.kiselevarseny-23-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 55.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 699px;
+  top: 1094px;
+  width: 336px;
+  height: 61px;
+}
+._52-aps {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 120%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 975px;
+  width: 168px;
+}
+.div16 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 177px;
+  top: 1062px;
+  width: 101px;
+}
+.div17 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 177px;
+  top: 1089px;
+  width: 101px;
+}
+.div18 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 177px;
+  top: 1116px;
+  width: 101px;
+}
+.group-65 {
+  position: absolute;
+  inset: 0;
+}
+.group-58 {
+  width: 1568px;
+  height: 123px;
+  position: static;
+}
+.rectangle-381 {
+  background: #000000;
+  width: 1568px;
+  height: 123px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.desktop-37 {
+  width: 185px;
+  height: 29px;
+  position: absolute;
+  left: 970px;
+  top: 53px;
+  overflow: hidden;
+}
+.div19 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Black", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-390 {
+  pointer-events: none;
+  width: 135px;
+  height: 29px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Black", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: absolute;
+  left: 491px;
+  top: 53px;
+  width: 97px;
+}
+.group-33 {
+  width: 163px;
+  height: 22px;
+  position: static;
+}
+.desktop-15 {
+  width: 163px;
+  height: 22px;
+  position: absolute;
+  left: 291px;
+  top: 57px;
+  overflow: hidden;
+}
+.div21 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Black", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: -4px;
+  width: 112.63px;
+}
+.group-63 {
+  width: 28.12px;
+  height: 26px;
+  position: static;
+}
+.group-34 {
+  width: 28.12px;
+  height: 26px;
+  position: static;
+}
+.bi-basket2 {
+  width: 28.12px;
+  height: 26px;
+  position: absolute;
+  left: 1265px;
+  top: 52px;
+  overflow: hidden;
+}
+.group2 {
+  width: 100%;
+  height: 93.75%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 6.25%;
+  overflow: visible;
+}
+.frame-12 {
+  width: 189px;
+  height: 58px;
+  position: absolute;
+  left: calc(50% - 79px);
+  top: 33px;
+  overflow: hidden;
+}
+.group-22 {
+  position: absolute;
+  inset: 0;
+}
+._52-aps2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 120%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 7px;
+  top: 0px;
+  width: 176px;
+}
+.group-66 {
+  width: 61.96px;
+  height: 24.38px;
+  position: absolute;
+  left: 1343px;
+  top: 54px;
+  overflow: visible;
+}
+.group-662 {
+  height: auto;
+  position: absolute;
+  left: 1331px;
+  top: 988px;
+  overflow: visible;
+}
+.line-9 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 1380px;
+  height: 0px;
+  position: absolute;
+  left: 62px;
+  top: 191px;
+}
+.group-84 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-38 {
+  background: #ffffff;
+  width: 281px;
+  height: 546px;
+  position: absolute;
+  left: 291px;
+  top: 207px;
+  overflow: hidden;
+}
+.image-18 {
+  width: 271px;
+  height: 391px;
+  position: absolute;
+  left: 5px;
+  top: 8px;
+  object-fit: cover;
+}
+._0 {
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 435px;
+  width: 229px;
+}
+._0-span {
+  color: #000000;
+}
+._0-span2 {
+  color: #ff0000;
+}
+._1 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 12px;
+  top: 397px;
+  width: 164px;
+}
+._1-span {
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 120%;
+  font-weight: 400;
+}
+._1-span2 {
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+}
+._950 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 472px;
+}
+.button {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 12px 47px 12px 47px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 12px;
+  top: 495px;
+}
+.div22 {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 120%;
+  font-weight: 400;
+  opacity: 0.5;
+  position: relative;
+}
+
+.desktop-15 {
+  width: 113px;
+  height: 22px;
+  position: absolute;
+  left: 291px;
+  top: 57px;
+  overflow: visible;
+}
+
+.group-33 {
+  width: 113px;
+  height: 22px;
+  position: static;
+}
+
+/* dropdown */
+.dropdown {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* кнопка — прозрачная */
+.dropdown-btn {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+/* текст */
+.div21 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Black", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: -4px;
+  width: 112.63px;
+}
+
+/* выпадающее меню — прозрачное */
+.dropdown-content {
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  min-width: 160px;
+
+  background: rgba(0, 0, 0, 0.7); /* ключевое */
+  
+
+  border: none;
+  box-shadow: none;
+
+  z-index: 10;
+
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.2s ease;
+}
+
+/* пункты */
+.dropdown-content a {
+  display: block;
+  padding: 10px 0px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* hover на пунктах */
+.dropdown-content a:hover {
+  opacity: 0.7;
+}
+
+/* показ меню */
+.dropdown:hover .dropdown-content {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+
+
+
+.div250 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Black", sans-serif;
+  font-size: 12px;
+  line-height: 120%;
+  font-weight: 900;
+  text-transform: uppercase;
+  top: 30px;
+  width: 112.63px;
+}
+
+
+
+
+
+
+
+
+.text {
+  color: white;
+  transition: filter 0.2s ease;
+}
+
+.text:hover {
+  filter: brightness(70%);
+}
+
+.text1 {
+  color: black;
+  transition: color 0.2s ease;
+}
+
+.text1:hover {
+  color: #555;
+}
+
+.icon {
+  filter: brightness(100%);
+  transition: filter 0.2s ease;
+}
+
+.icon:hover {
+  filter: brightness(70%);
+}
+
+._0-span {
+  color: #000000;
+}
+._0-span2 {
+  color: #ff0000;
+}
